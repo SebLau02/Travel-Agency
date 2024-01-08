@@ -14,7 +14,7 @@ Pour explication du hover sur les cartes et les companies aérienne, j'ai préf�
 
 La maquette est [ici](https://www.figma.com/community/file/993910904620677970)
 
-Je vous laisse le découvrir [ici]()
+Je vous laisse le découvrir [ici](https://seblau02.github.io/Travel-Agency/)
 
 ## En
 
@@ -24,7 +24,7 @@ To explain the hover effect on airline and services cards, I chose to animate op
 
 You can see the model [here](https://www.figma.com/community/file/993910904620677970)
 
-Visit it [here]()
+Visit it [here](https://seblau02.github.io/Travel-Agency/)
 
 ### Technologies: HTML, CSS, JS
 
