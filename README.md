@@ -14,7 +14,7 @@ Pour explication du hover sur les cartes et les companies aérienne, j'ai préf�
 
 La maquette est [ici](https://www.figma.com/community/file/993910904620677970)
 
-Vous pouvez le visiter [ici]()
+Je vous laisse le découvrir [ici]()
 
 ## En
 
