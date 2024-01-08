@@ -4,7 +4,7 @@
 
 ### Description
 
-Intégration d'un maquette figma.
+Intégration d'une maquette figma.
 
 ### Détails
 
@@ -31,5 +31,5 @@ Visit it [here]()
 ### Images
 
 <img src="./assets/images/illustrations/illustration1.png" alt="illustration" width="800">
-<img src="./assets/images/illustrations/illustration2.png" alt="illustration" width="800">
+<img src="./assets/images/illustrations/illustration2.png" alt="illustration" width="400">
 <img src="./assets/images/illustrations/illustration3.png" alt="illustration" width="800">
