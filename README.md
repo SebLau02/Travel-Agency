@@ -4,7 +4,7 @@
 
 ### Description
 
-Intégration d'un maquette figma.
+Intégration d'une maquette figma.
 
 ### Détails
 
