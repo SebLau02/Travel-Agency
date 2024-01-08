@@ -50,11 +50,15 @@
 				<a href="#">Bookings</a>
 				<a href="#">Login</a>
 				<a href="#">Sign up</a>
-				<select name="languages" id="languages">
-					<option value="english">EN</option>
-					<option value="french">FR</option>
-					<option value="italian">IT</option>
-				</select>
+
+				<div class="lang-selector">
+					<label for="languages">Langue</label>
+					<select name="languages" id="languages">
+						<option value="english">EN</option>
+						<option value="french">FR</option>
+						<option value="italian">IT</option>
+					</select>
+				</div>
 			</div>
 		</nav>
 
@@ -89,8 +93,10 @@
 					<div class="hero-more">
 						<a href="#">Find out more</a>
 						<div>
-							<button id="play"><span></span></button
-							><span>Play Demo</span>
+							<label for="play">Play Demo</label>
+							<button id="play" aria-labelledby="play">
+								<span></span>
+							</button>
 						</div>
 					</div>
 				</div>

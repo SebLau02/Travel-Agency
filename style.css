@@ -53,10 +53,32 @@ body {
 
 /* navigation bar */
 
-.navigation-bar select {
+.lang-selector {
+    position: relative;
+}
+
+.lang-selector > label {
+    position: absolute;
+    opacity: 0;
+    left: 0;
+    top: 0%;
+    transform: translateY(-100%);
+    cursor: pointer;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.lang-selector > label:focus {
+    opacity: 1;
+}
+
+.lang-selector > select {
     border: none;
     background: none;
+
+    color: #212832;
+    font-weight: 600;
 }
+
 .navigation-bar > :nth-child(2) > :nth-child(6) {
     border: 1px solid #212832;
     border-radius: 5px;
@@ -283,10 +305,12 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-direction: row-reverse;
 }
 
-.hero-more > div > span {
+.hero-more > div > label {
     color: #686d77;
+    font-size: clamp(1.3rem, 3vw, 1.7rem);
 }
 
 #play {
